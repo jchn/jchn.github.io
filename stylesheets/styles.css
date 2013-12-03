@@ -101,6 +101,17 @@ header {
   position:fixed;
 }
 
+header img {
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+}
+
+header p.view {
+  display: block;
+  text-align: center;
+}
+
 header ul {
   list-style:none;
   height:40px;
